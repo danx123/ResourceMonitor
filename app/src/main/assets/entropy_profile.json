@@ -1,0 +1,8 @@
+{
+  "touch_delay_range_ms": [90, 280],
+  "swipe_intervals": [350, 550],
+  "input_randomness": true,
+  "noise_ratio": 0.15,
+  "human_curve_bias": 0.65
+}
+
