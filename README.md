@@ -29,7 +29,7 @@
 ---
 
 ## 📂 Module Structure
-
+VoidBreakerLauncher/ ├── app/ │ ├── src/ │ ├── build.gradle.kts ├── build.gradle.kts (root - no Android plugin!) ├── settings.gradle.kts
 
 ---
 
